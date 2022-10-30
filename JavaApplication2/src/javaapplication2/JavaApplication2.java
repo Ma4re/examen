@@ -8,6 +8,7 @@ package javaapplication2;
  *
  * @author PC
  * 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
+ * ok
  */
 public class JavaApplication2 {
 
