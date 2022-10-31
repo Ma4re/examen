@@ -7,6 +7,7 @@ package javaapplication2;
 /**
  *
  *AAAAAAA
+ * Envia el ejercicio xd
  */
 public class JavaApplication2 {
 
