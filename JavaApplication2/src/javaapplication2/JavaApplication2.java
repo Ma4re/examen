@@ -8,10 +8,7 @@ package javaapplication2;
  *
  * @author PC
  * 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
- * ok
- * ok2
- * ok3
- *confirmado 
+ * Confirmame
  *
  */
 public class JavaApplication2 {
